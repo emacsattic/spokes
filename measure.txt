@@ -1,0 +1,211 @@
+                    HUB AND RIM MEASUREMENT INFORMATION
+
+----------------------------------------------------------------------------
+
+The measurements of the hub and rim are very critical to getting the spoke
+length right. Although spokes only come in 1mm or 2mm increments, in order
+to get the desired length as close as possible, the measurements need to be
+accurate.
+
+The hardest measurement to get accurate will be the spoke radius of the hub,
+refered to as the HSR in the main formula. For front wheels figuring out the
+hubs flange offset, HFO, is fairly easy, you just measure the distance
+between the two flanges and divide by two. The rear wheel on multispeed hubs
+is trickier because these hubs have the two flanges offset unequally from
+the center of the hub for clearance for the freehub/freewheel. For single
+speed hubs, they might or might not be off-center, so it would be best to
+measure them assuming that they are off-center to make sure the offset value
+is accurate. The rim radius is fairly easy, you just divide the diameter by
+two, but for the full measurement, figuring out the spokes penetration into
+the hub can be a little tricky, especially with aerodynamic rims that have
+the spoke heads set inside the rim or rims that require special x-long
+nipples.
+
+I will outline the measurements of the hub first.
+
+----------------------------------------------------------------------------
+
+The first measurement to take will be the hubs spoke diameter, HSD. To
+figure out the radius, HSR, for the main formula, you will divide this value
+by two (HSR = HSD/2). If you have a set of calipers to use it will be easier
+than if all you have is a metric ruler. The figure of importance is the
+outside edge of the holes for the spokes. Spokes are measured from the edge
+of the bend closest to the threaded end of the spoke, not from the center of
+the head like might be assumed. If you do not have calipers, there are
+several ways to make this measurement (HSD) with just a ruler. One of the
+quickest ways will be to just eyeball it. Hold the ruler/tape measure as
+close to the flange as possible, making sure it is parallel to the flange
+and the spoke holes that you are measuring. You can put the ruler on the
+flange at the edge of the bearing cups and sight down the measurement marks
+of the ruler to the spoke hole edges.
+
+One technique that can help is using just one eye looking at the hub as
+depicted in the diagram below. Sight the edge of the two flanges until the
+near flange just covers the far flange and take a reading off the ruler.
+Then without moving the ruler, use the same technique for the opposite spoke
+hole. If in doubt, take a couple of measurements and make sure they agree.
+
+Another way that you can take this measurement is two use two extra spokes.
+Make sure the spokes are a straight as possible. Feed the spokes through the
+hub from the inside on two opposite spoke holes. Then place the assembly on
+a table and either tape or block the hub with the spoke holes with the
+spokes in them has parallel to the table as possible, measuring the distance
+of the spokes at the hub flanges to the table might help. After the spokes
+at the flange are parallel, equal distances, to the table, lay the spokes on
+the table so they are in-line with the hub's axel. You can then use a small
+weight on the threads of the spokes to keep them from moving. Take
+measurements of the spokes seperation in two or more places down the spokes
+and move the spokes until they are as parallel as you can get them, always
+maintaining their alignment with the axel as closely as possible. Then
+measure the outer edges of the two spokes has near the hub flange as
+possible and this will be the diameter of the spoke holes outer edges on the
+hub, this is the HSD value.
+
+After you get a measurement that you feel is as accurate as possible, divide
+it by two to figure out the value for the HSR figure. The following diagram
+shows the measurement of the diameter you are looking for.
+
+                                   [Image]
+
+The value of the spoke angle, SA, is easy to determine. Divide 720 by the
+number of spoke holes on the hub. The SA values for common hubs are: 36 hole
+hub, 720/36=20; 32 hole hub, 720/32=22.5; 28 hole hub, 720/28=25.71428571429
+which can be rounded down to 25.71 for practicle purposes.
+
+From the SA value, you now calculate the spoke anchor angle, SAA, for the
+main formula. The SAA equals the SA times the number of crosses, for
+standard crossed pattern, or times the number of holes away from the hole
+that would be used for radial lacing, if you are doing an exotic pattern.
+For example, in a 3 cross 36 hole wheel, the SAA is: 720/36=20, 20X3=60, 60
+degrees. If you are doing a crows foot lacing with the three spokes of a
+pattern right next to each other on a 36 spoke wheel, the middle one would
+be a radial spoke and use the radial formula, the outer two are located two
+hub holes away from the hub hole directly under the rim hole they will
+attach to so they are 720/36=20, 20X2=40, the SAA for them is 40 degrees. If
+you are doing a two leading four trailing pattern on a 36 spoke wheel, half
+the spokes are 20X2=40 and half are 20X4=80, so you get two SAA values of 40
+and 80.
+
+----------------------------------------------------------------------------
+
+The next measurement you will need is the hub flange offset, HFO. For front
+hubs all you need to do is measure the seperation of the flanges at their
+mid point, like if the flanges are extremely thin. This is referenced as FW
+in the diagram below. After you have this dimension divide it by two and
+this will be the flanges offset from the center of the hub, the value to use
+for HFO, HFO=FW/2.
+
+For rear wheels this can be a little trickier because of the dish of the
+wheel. For one speed wheels, that might not have any dish to them, it would
+still be a good idea to take the measurement this way than to just assume
+they aren't dished.
+
+The first value you will need is the overall width of the hub assembly. For
+common hubs this is 121mm for single speed, 120mm for 5 speed, 126mm, 130mm
+or 135mm for 6 & 7 speed hubs and 130mm, 135mm or 140mm for 8 & 9 speed
+hubs. The 126mm and 130mm dimensions are for most road bike hubs and the
+135mm and 140mm are for mountain bike hubs. This is the figure for the
+distance from the edges of the outermost locknuts where they rest against
+the inside of the dropouts, HW in the diagram below. This figure is commonly
+called the OLD for Outer Locknut Dimension. I couldn't find any information
+about the width of three-speed or the new multi-speed internal hubs to share
+with you. They will have to be measured if you are building a wheel with
+them.
+
+After you know this value you will need to measure the left side spacing,
+LSS, and the drive side spacing, DSS. These measurements will be taken at
+the center of the flange and the outer edge of the lock nut. An easy way to
+get this value would be to put a very thin, flat wrench, like a hub cone
+wrench, against the locknut, making sure it is against the face of the nut
+evenly so it is parallel to the hub flange, then measure from the inside
+edge of the wrench to the center of the flange. After you have accurate
+measurements of these two dimensions, divide the overall width of the hub
+assembly, HW, by two and then subtract the readings just taken. This will
+give you the two flange distances from the center of the hub: for the left
+side HFO=(HW/2)-LSS, for the right side HFO=(HW/2)-DSS. You now have the two
+HFO values you will need to figure out the two different rear spoke lengths.
+
+                                   [Image]
+
+You now have all the dimensions of the hub's that are needed, HSR, SAA and
+HFO's (two rear, one front).
+
+----------------------------------------------------------------------------
+
+For the rim dimensions the first measurement you will need to take is the
+diameter of the rim. Using a tape measure, measure the distance between two
+spoke holes that are exactly half way around the rim. For 36 hole rims this
+will be two holes that have 17 holes in between them, not counting the ones
+you are measuring, for 32 hole rims it's 15 holes and for 28's it's 13. For
+rims without eyelets, take this measurement right off of the body of the
+rim, trying to be as centered as possible. For rims with eyelets, this
+reading should be taken from the inside edge of the eyelet because this will
+make the factors from the next measurements easier to apply, in the diagram
+below this is represented as RMP for rim measure point.
+
+If you do not have a metric tape measure, you can use an english tape
+measure, convert the reading to a decimal point, ie. 1/8=.125, and then
+multiply the inch measurement by 25.4 to get millimeters. After you have the
+diameter in millimeters, divide it by two to get the radius of the rim. It
+is OK to round this number to the nearest millimeter.
+
+You will now have to figure out how deeply the spoke will penetrate into the
+rim. For most rims with eyelets that use standard nipples, this will be 4mm.
+For most rims wihout eyelets this will be 3mm. To double-check these values
+or if you have rims that need x-long nipples or are lacing an aerodynamic
+rim where the nipples are buried in the rim, you will have to take
+measurements.
+
+The diagrams below show you the values that you need.
+
+                                   [Image]
+
+For rims that use standard or x-long nipples, the first measurements you
+will need to know are the length of the nipple and the depth of the nipples
+driver slot that is worked by a spoke nipple screwdriver. These dimensions
+are refered to as SNL, spoke nipple length, and SNDD, spoke nipple driver
+depth. After you have these values you will need to measure the distance the
+nipple will extend out of the rim, the SNE. Measure this by putting a nipple
+in the rim, press on it firmly to make sure it is seated all the way, and
+then measure from the edge of the eyelet if the rim has eyelets, or the rim
+if it doesn't, to the end of the nipple, this is the SNE.
+
+You now have four numbers, 1: the rim's radius, 2: the length of the nipple
+(SNL), 3: how much of the nipple sticks through the rim (SNE), and 4: the
+depth of the nipples driver slot (SNDD).
+
+Start with the value for the rim's radius. Add the value for the length of
+the nipple, SNL. Subtract the depth of the nipples driver slot, SNDD. Then
+subtract the distance the nipple sticks through the rim, SNE. This will give
+you the value for RRSP, the rim radius plus spoke penetration. For example,
+lets say the rim's radius is 300mm, the nipple is 12mm long with 6mm that
+sticks through the rim (SNE) and has a driver depth of 1mm. This gives you
+300+12-6-1=305, 305mm for the value of RRSP in the formula on the home page.
+
+If you are building a wheel with aerodynamic rims that have a deep V shape
+and the nipple is fully inside the rim, things are a little harder. The
+measurement to determine the rim's radius is the same, just make sure that
+you measure on the center of the edge of the rim closest to the hub, right
+next to the spoke holes. To figure out how far the spoke penetrates into the
+rim, you will need to make a measurement like this:
+
+                                   [Image]
+
+You will need to use a spoke and a nipple. Thread the spoke through the rim
+from the direction of the hub. With the spoke sticking up far enough to have
+access to the threads, thread a nipple on it and tighten it about as far as
+depicted in the above diagram. Pull the spoke back through the rim until the
+nipple is seated in it's depression and then wrap a piece of tape around the
+spoke at the point where it comes through the rim.
+
+Now unscrew the spoke from the nipple and measure the distance from the egde
+of the tape on the side near the threads to the end of the spoke. Add this
+value to the determined radius of the rim and that will give you the RRSP
+value for the formula on the home page.
+
+For example, the rim's diameter measured 550mm so it's radius is 275mm.
+After doing the above, you figured out that the spoke penetrates into the
+rim about 20mm. Adding the 275mm radius to the 20mm penetration gives you a
+factor of 295mm to use in the spoke length formula for the RRSP value.
+
+;; end measure.txt 
